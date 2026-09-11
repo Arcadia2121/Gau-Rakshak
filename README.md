@@ -29,12 +29,6 @@ It provides real-time, 4-tier risk alerts locally on an OLED for rural farmers, 
 | **DS18B20 Temp** | Data: D4 | 3.3V / GND | Requires 4.7kΩ pull-up resistor to 3.3V |
 | **Alert LED** | D2 | - | Uses onboard ESP32 LED |
 
-## 📂 Repository Structure
-* `/Arduino_Firmware/` - The complete modular C++ codebase for the ESP32.
-* `train_model.py` - The Python script used to train the Logistic Regression model.
-* `cow_milk_mastitis_dataset.csv` - The 800-sample dataset used for training.
-* `Schematic.pdf` - The circuit diagram for breadboard assembly.
-
 ## 👨‍💻 How to Run
 1. Wire the components according to the schematic.
 2. Open the `.ino` file in the Arduino IDE.
