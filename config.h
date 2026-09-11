@@ -4,7 +4,7 @@
 // --- 0. BLYNK CLOUD CREDENTIALS ---
 // (Must be the very first thing in the file)
 #define BLYNK_TEMPLATE_ID   "TMPLxxxxxx"
-#define BLYNK_TEMPLATE_NAME "BoviCare Edge"
+#define BLYNK_TEMPLATE_NAME "Gau Rakshak"
 #define BLYNK_AUTH_TOKEN    "YOUR_BLYNK_AUTH_TOKEN"
 
 // --- 1. HARDWARE PIN DEFINITIONS ---
